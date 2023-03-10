@@ -1,0 +1,6 @@
+name: myproject
+runtime:
+  name: nodejs
+  options:
+    typescript: false
+description: A simple AWS serverless JavaScript Pulumi program
